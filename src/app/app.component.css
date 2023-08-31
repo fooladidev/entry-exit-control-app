@@ -1,3 +1,20 @@
 .content{
-    margin-top: 60px;
+    margin-top: 80px;
+}
+.myLi{
+    cursor: pointer;
+    list-style-type: none;margin: 0px;padding: 0px;height: 40px;width: 100%;
+    margin-bottom: 4px !important;
+    transition: all 0.3s;
+    border-radius: 6px;
+    padding-right: 8px !important;
+    padding-top: 8px !important;
+
+}
+.myLi:hover{
+    background-color: #1E2C40;
+    color: white;
+}
+.mainRow{
+    margin: 0px !important; font-family: 'IranSans','Times New Roman', Times, serif !important;
 }
